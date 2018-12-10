@@ -1,5 +1,5 @@
 # selenium-vk
-## QA.Practics.Pivovar.Alina.8
+## QA.Practics.Pivovar.Alina.7
 \
 Обязательные требования для запуска программы:
 1. Google Chrome 69-71 версии
